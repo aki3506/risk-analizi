@@ -1,0 +1,19 @@
+{
+  "id": "cokunkaanaki/risk-analizi",
+  "id_no": 134733621,
+  "title": "risk_analizi",
+  "code_file": "risk-analizi.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "cokunkaanaki/loanapproval-risk"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
